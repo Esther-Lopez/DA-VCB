@@ -1,5 +1,6 @@
 aiohttp
 Pillow
 psutil
-git+git://github.com/AlbertEinsteinTG/pyrogram@asyncio-dev#pyrogram
+git+git://github.com/Esther-Lopez/py18
+#git+git://github.com/AlbertEinsteinTG/pyrogram@asyncio-dev#pyrogram
 tgcrypto
