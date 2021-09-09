@@ -10,17 +10,7 @@
 
   [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Jijinr/VidComBot)
 
-#### The Hard Way
-
-```sh
-virtualenv -p python3 VENV
-. ./VENV/bin/activate
-pip install -r requirements.txt
-# <Create config.py with variables as given below>
-python bot.py
-```
-
-An example `config.py` file could be:
+##
 
 **Not All of the variables are mandatory**
 
@@ -49,5 +39,6 @@ help - To know about bot
 
 [@SpEcHide](https://github.com/spechide/publicleech)
 
+[Firked](https://github.com/DarkAngelTG/VidComBot)
 #### LICENSE
 - GPLv3
