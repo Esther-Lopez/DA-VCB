@@ -4,7 +4,14 @@
   "logo": "https://telegra.ph/file/b687febf32e4d583fb1d4.jpg",
   "keywords": [
     "telegram",
+    "best",
+    "video",
+    "compress",
+    "bot"
   ],
+  "success_url": "https://telegram.dog/VidComBot",
+  "website": "https://t.me/DX_Botz",
+  "repository": "https://github.com/Jijinr/VidComBot",
   "env": {
     "ENV": {
       "description": "Setting this to ANYTHING will enable VARs when in ENV mode",
@@ -16,23 +23,24 @@
     },
     "APP_ID": {
       "description": "Get this value from https://my.telegram.org or @usetgxbot",
-      "value": "6"
+      "value": ""
     },
     "API_HASH": {
       "description": "Get this value from https://my.telegram.org or @usetgxbot",
-      "value": "eb06d4abfb49dc3eeb1aeb98ae0f581e"
+      "value": ""
     },
     "AUTH_USERS": {
       "description": "allow only pre-defined users to use this bot",
-      "value": "1401477467"
+      "value": "699615803 809546777"
     },
     "FINISHED_PROGRESS_STR": {
       "description": "should be a single character.",
-      "value": "□"
+      "required": false
     },
     "UN_FINISHED_PROGRESS_STR": {
       "description": "should be a single character.",
-      "value": "■"
+      "required": false,
+      "value": "●"
     }
   },
   "stack": "container"
