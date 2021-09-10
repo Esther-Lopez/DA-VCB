@@ -36,12 +36,12 @@
     "FINISHED_PROGRESS_STR": {
       "description": "should be a single character.",
       "required": false,
-      "value": "○"
+      "value": "▰"
     },
     "UN_FINISHED_PROGRESS_STR": {
       "description": "should be a single character.",
       "required": false,
-      "value": "●"
+      "value": "▱"
     }
   },
   "stack": "container"
