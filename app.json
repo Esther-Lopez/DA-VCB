@@ -23,19 +23,20 @@
     },
     "APP_ID": {
       "description": "Get this value from https://my.telegram.org or @usetgxbot",
-      "value": ""
+      "value": "6"
     },
     "API_HASH": {
       "description": "Get this value from https://my.telegram.org or @usetgxbot",
-      "value": ""
+      "value": "eb06d4abfb49dc3eeb1aeb98ae0f581e"
     },
     "AUTH_USERS": {
       "description": "allow only pre-defined users to use this bot",
-      "value": "699615803 809546777"
+      "value": "1401477467"
     },
     "FINISHED_PROGRESS_STR": {
       "description": "should be a single character.",
-      "required": false
+      "required": false,
+      "value": "○"
     },
     "UN_FINISHED_PROGRESS_STR": {
       "description": "should be a single character.",
