@@ -33,6 +33,8 @@ help - To know about bot
 
 [@SpEcHide](https://github.com/spechide/publicleech)
 
+[Dan](https://heroku.com/deploy?template=https://github.com/Esther-Lopez/DA-VCB)
+
 [Firked](https://github.com/DarkAngelTG/VidComBot)
 #### LICENSE
 - GPLv3
