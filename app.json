@@ -5,7 +5,6 @@
   "keywords": [
     "telegram",
   ],
-  
   "env": {
     "ENV": {
       "description": "Setting this to ANYTHING will enable VARs when in ENV mode",
@@ -29,13 +28,11 @@
     },
     "FINISHED_PROGRESS_STR": {
       "description": "should be a single character.",
-      "value": "□",
-      "required": false
+      "value": "□"
     },
     "UN_FINISHED_PROGRESS_STR": {
       "description": "should be a single character.",
-      "value": "■",
-      "required": false
+      "value": "■"
     }
   },
   "stack": "container"
